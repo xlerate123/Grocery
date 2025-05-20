@@ -12,16 +12,16 @@ Make sure you have the following installed:
 
 1. Clone the repository:
   
-git clone https://github.com/your-username/repo-name.git  
+   git clone https://github.com/your-username/repo-name.git  
 
-cd your-repo-name  
+   cd your-repo-name  
 
 2. Install dependencies:
 
-npm install
+   npm install
 
 3. Run the development server:
 
-npm run dev
+   npm run dev
 
 4. Open your browser and navigate to http://localhost:3000 or http://localhost:5173/ to see your project in action.
